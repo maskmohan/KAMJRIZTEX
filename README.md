@@ -12,7 +12,7 @@
 Build and run the Docker container:
 ```bash
 docker build -t fastapi-scraper .
-docker run -d -p 8000:8000 fastapi-scraper
+docker run -d -p 4000:4000 fastapi-scraper
 
 ###  Running the Application
 Run the app locally with:
